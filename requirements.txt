@@ -32,7 +32,6 @@ Markdown==3.1.1
 matplotlib==3.0.3
 numpy==1.16.3
 pandas==0.24.2
-pandocfilters==1.4.2s
 pickleshare==0.7.5
 requests==2.21.0
 scipy==1.2.1
